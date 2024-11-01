@@ -1,0 +1,376 @@
+@keyframes rainbow{
+		100%,0%{
+			color: rgb(255,0,0);
+		}
+		8%{
+			color: rgb(255,127,0);
+		}
+		16%{
+			color: rgb(255,255,0);
+		}
+		25%{
+			color: rgb(127,255,0);
+		}
+		33%{
+			color: rgb(0,255,0);
+		}
+		41%{
+			color: rgb(0,255,127);
+		}
+		50%{
+			color: rgb(0,255,255);
+		}
+		58%{
+			color: rgb(0,127,255);
+		}
+		66%{
+			color: rgb(0,0,255);
+		}
+		75%{
+			color: rgb(127,0,255);
+		}
+		83%{
+			color: rgb(255,0,255);
+		}
+		91%{
+			color: rgb(255,0,127);
+		}
+}
+ .nickname {
+	animation: rainbow 1.3s linear infinite;
+}
+@keyframes rainbow{
+		100%,0%{
+			color: rgb(255,0,0);
+		}
+		8%{
+			color: rgb(255,127,0);
+		}
+		16%{
+			color: rgb(255,255,0);
+		}
+		25%{
+			color: rgb(127,255,0);
+		}
+		33%{
+			color: rgb(0,255,0);
+		}
+		41%{
+			color: rgb(0,255,127);
+		}
+		50%{
+			color: rgb(0,255,255);
+		}
+		58%{
+			color: rgb(0,127,255);
+		}
+		66%{
+			color: rgb(0,0,255);
+		}
+		75%{
+			color: rgb(127,0,255);
+		}
+		83%{
+			color: rgb(255,0,255);
+		}
+		91%{
+			color: rgb(255,0,127);
+		}
+}
+ .progress {
+	animation: rainbow 1.3s linear infinite;
+}
+@keyframes rainbow{
+		100%,0%{
+			color: rgb(255,0,0);
+		}
+		8%{
+			color: rgb(255,127,0);
+		}
+		16%{
+			color: rgb(255,255,0);
+		}
+		25%{
+			color: rgb(127,255,0);
+		}
+		33%{
+			color: rgb(0,255,0);
+		}
+		41%{
+			color: rgb(0,255,127);
+		}
+		50%{
+			color: rgb(0,255,255);
+		}
+		58%{
+			color: rgb(0,127,255);
+		}
+		66%{
+			color: rgb(0,0,255);
+		}
+		75%{
+			color: rgb(127,0,255);
+		}
+		83%{
+			color: rgb(255,0,255);
+		}
+		91%{
+			color: rgb(255,0,127);
+		}
+}
+ .profile {
+	animation: rainbow 1.3s linear infinite;
+}
+@keyframes rainbow{
+		100%,0%{
+			color: rgb(255, 127, 0);
+		}
+		8%{
+			color: rgb(255, 127, 0);
+		}
+		16%{
+			color: rgb(255, 127, 0);
+		}
+		25%{
+			color: rgb(255, 127, 0);
+		}
+		33%{
+			color: rgb(255, 127, 0);
+		}
+		41%{
+			color: rgb(255, 127, 0);
+		}
+		50%{
+			color: rgb(255, 127, 0);
+		}
+		58%{
+			color: rgb(255, 127, 0);
+		}
+		66%{
+			color: rgb(255, 127, 0);
+		}
+		75%{
+			color: rgb(255, 127, 0);
+		}
+		83%{
+			color: rgb(255, 127, 0);
+		}
+		91%{
+			color: #ff7800;
+		}
+}
+ .bg-level {
+	animation: rainbow 1.3s linear infinite;
+}
+
+@keyframes rainbow{
+		100%,0%{
+			color: rgb(255, 127, 0);
+		}
+		8%{
+			color: rgb(255, 127, 0);
+		}
+		16%{
+			color: rgb(255, 127, 0);
+		}
+		25%{
+			color: rgb(255, 127, 0);
+		}
+		33%{
+			color: rgb(255, 127, 0);
+		}
+		41%{
+			color: rgb(255, 127, 0);
+		}
+		50%{
+			color: rgb(255, 127, 0);
+		}
+		58%{
+			color: rgb(255, 127, 0);
+		}
+		66%{
+			color: rgb(255, 127, 0);
+		}
+		75%{
+			color: rgb(255, 127, 0);
+		}
+		83%{
+			color: rgb(255, 127, 0);
+		}
+		91%{
+			color: #ff7800;
+		}
+}
+ .text {
+	animation: rainbow 1.3s linear infinite;
+}
+
+
+:root {
+    --bg: #843e00;
+    --bb: #552800;
+    --bx: #753700;
+    --bt: #a24c00;
+    --orange: #ff7800;
+    --splat: url("https://images.vexels.com/media/users/3/159262/isolated/lists/1ff5d507a5622971efd84160ae58ca85-drop-pool-blood-splatter.png");
+}
+
+.interface .background:before {
+    content: url("https://i.ibb.co/q05cJtZ/skulllbg2.jpg");
+
+}
+body {
+    background: hsl(228, 0%, 10%);
+    --black: #000;
+    --white: #fff;
+    --WwmMwWnN-1: #ffb914;
+    --WwmMwWnN-2: #fcd373;
+    --WwmMwWnN-3: #b6830e;
+    --orange-1: #f2994a;
+    --wNmWwnMW-1: hsl(225, 0%, 9%);
+    --wNmWwnMW-2: hsl(226, 0%, 18%);
+    --wNmWwnMW-3: hsl(226, 0%, 0%);
+    --wNmWwnMW-4: hsl(220, 0%, 15%);
+    --wNmWwnMW-5: hsl(226, 0%, 18%);
+    --wNmWwnMW-6: hsl(225, 0%, 8%);
+    --WwMW-1: #9a39d3;
+    --WwMW-2: #af51e6;
+    --WwMW-3: #692c8c;
+    --red-1: #e24f4f;
+    --red-2: #f66;
+    --red-3: #cb1414;
+    --red-4: #e73c3c;
+    --red-5: #e73131;
+    --blue-1: #453ad4;
+    --blue-2: #545ffc;
+    --blue-3: #222aa0;
+    --blue-4: #2f80ed;
+    --blue-5: #4f94f1;
+    --blue-6: #256fd3;
+    --WwNWmMwn-1: #1cce6c;
+    --WwNWmMwn-2: #24ff2f;
+    --WwNWmMwn-3: #07960e;
+    --WwNWmMwn-4: #35e785;
+    --black-5: #1a1f2e;
+    --gray-1: #f2f2f2;
+    --gray-2: #bdbdbd;
+}
+
+:root {
+    --bdthickness: .15rem;
+    --bdradius: .2rem;
+    --white2: #e6e6e6;
+    --grey:#646464;
+    --darkgrey: #1b1b1b;
+    --tpdarkgrey: #1b1b1b9e;
+    --darkergrey: #0f0f0f;
+    --red: #b30000;
+    --orange: #f79800;
+    --tporange: #f798005c;
+    --rorangegrad: linear-gradient(to right, var(--red), var(--orange));
+    --whitebd: var(--bdthickness) solid var(--white2);
+    --greybd: var(--bdthickness) solid var(--grey);
+    --darkgreybd: var(--bdthickness) solid var(--darkgrey);
+    --darkergreybd: var(--bdthickness) solid var(--darkergrey);
+    --bsfireglow: 0px 0px 11px -5px #ffee47 , 0px 0px 17px -7px #ff9420 , 0px -0px 14px 2px #a90000;
+    --bsfiresmall: 0px -12px 26px -15px #ffee47 , 0px -2px 32px -11px #ff9420 , 0px -8px 29px -4px #a90000;
+    --bsfirebig: 0px -15px 26px -11px #ffee47 , 0px -7px 32px -7px #ff9420 , 0px -13px 29px 2px #a90000;
+    --tsfire: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+    --tstrwhite: 0.01rem #fff;
+    --dark: #141414;
+    --dark-transparent: #0000004f;
+    --blue: #2639b9;
+}
+
+@import url('');
+
+@font-face{
+    font-family: Chiller;
+    src: url("https://raw.githubusercontent.com/eezed69/random/main/chiller.otf")
+}
+
+*, body {
+    font-family: ""!important;
+    font-weight: 800;
+    font-style: normal;
+    -webkit-text-stroke: 0!important;
+    border-radius: 0rem!important;
+}
+
+@-webkit-keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+/*background*/
+
+.background[data-v-095fb124]{
+    background: url("https://i.ibb.co/qsfggQm/output-onlinegiftools.gif") bottom repeat-x, url("https://i.ibb.co/q05cJtZ/skulllbg2.jpg")!important;
+    background-size: 30% 30%, contain!important;
+}
+
+.bg-radial{
+    background: linear-gradient(#fff0, #fff0, #fff0, #0000003d)!important;
+}
+
+
+.bg-radial::after{
+    background: #000!important;
+    background-size: 30% 30%!important;
+}
+
+.pattern-bg{
+    display: none!important;
+}
+
+/*generic*/
+.profile[data-v-8f95a3ee],
+.moneys,
+.quests[data-v-5392a807]{
+	background-image: url("https://i.ibb.co/hdKfxvm/skullbg.jpg")!important;
+    background-size: auto auto!important;
+    border-radius: var(--bdradius)!important;
+    box-shadow: var(--bsfireglow)!important;
+    border: var(--darkgreybd)!important;
+}
+#play-btn {
+    background: #ff7800 !important;
+    box-shadow: 4px 4px 20px #ff7800 !important;
+}
+#join-btn {
+    background: #ff7800 !important;
+    box-shadow: 4px 4px 20px #ff7800 !important;
+}
+#create-btn {
+    background: #ff7800 !important;
+    box-shadow: 4px 4px 20px #ff7800 !important;
+}
+#select-mod {
+    background: #ff7800 !important;
+    box-shadow: 4px 4px 20px #ff7800 !important;
+}
+#left-icons {
+    background: #ff7800 !important;
+    box-shadow: 4px 4px 20px #ff7800 !important;
+}
+#left-interface {
+    background: #ff7800 !important;
+    box-shadow: 4px 4px 20px #ff7800 !important;
+}
+#right-interface {
+    background: #ff7800 !important;
+    box-shadow: 4px 4px 20px #ff7800 !important;
+}
+#invite-btn {
+    background: #ff7800 !important;
+    box-shadow: 4px 4px 20px #ff7800 !important;
+}
+#team-section {
+    background: #ff780000 !important;
+    box-shadow: 4px 4px 20px #ff780017 !important;
+}
+.text {
+    background: #ff780000 !important;
+    box-shadow: 4px 4px 20px #ff780017 !important;
+}
